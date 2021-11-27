@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TPH7R204PL
+D N-MOSFET transistor, source/gate/drain
+K transistor NMOS N-MOS N-MOSFET
+F https://toshiba.semicon-storage.com/info/docget.jsp?did=55433&prodName=TPH7R204PL
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,8 @@
+(fp_lib_table
+  (lib (name 103JT-050)(type KiCad)(uri ${KIPRJMOD}/103JT-050)(options "")(descr ""))
+  (lib (name BQ77915)(type KiCad)(uri ${KIPRJMOD}/BQ77915)(options "")(descr ""))
+  (lib (name TPH7R204PL)(type KiCad)(uri ${KIPRJMOD}/TPH7R204PL)(options "")(descr ""))
+  (lib (name XTconnector)(type KiCad)(uri ${KIPRJMOD}/XTconnector/XTconnector.pretty)(options "")(descr ""))
+  (lib (name TPN1R603PL)(type KiCad)(uri ${KIPRJMOD}/TPN1R603PL)(options "")(descr ""))
+  (lib (name SolderJumper)(type KiCad)(uri ${KIPRJMOD}/SolderJumper.pretty)(options "")(descr ""))
+)

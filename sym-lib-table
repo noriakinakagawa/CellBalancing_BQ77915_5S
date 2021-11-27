@@ -1,0 +1,7 @@
+(sym_lib_table
+  (lib (name BQ77915)(type Legacy)(uri ${KIPRJMOD}/BQ77915/BQ77915.lib)(options "")(descr ""))
+  (lib (name TPH7R204PL)(type Legacy)(uri ${KIPRJMOD}/TPH7R204PL/TPH7R204PL.lib)(options "")(descr ""))
+  (lib (name 103JT-050)(type Legacy)(uri ${KIPRJMOD}/103JT-050/103JT-050.lib)(options "")(descr ""))
+  (lib (name XTconnector)(type Legacy)(uri ${KIPRJMOD}/XTconnector/XTconnector.lib)(options "")(descr ""))
+  (lib (name TPN1R603PL)(type Legacy)(uri ${KIPRJMOD}/TPN1R603PL/TPN1R603PL.lib)(options "")(descr ""))
+)
